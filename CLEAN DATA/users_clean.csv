@@ -1,0 +1,78 @@
+user_id,gender,position,location,department
+74008,other,NULL,Office,Support Centre
+74025,female,Legal Officer,Office,Support Centre
+74027,female,General Manager,Office,Support Centre
+74042,female,Warehouse Officer - Purchasing,Office,Support Centre
+74044,male,Dokter,Clinic,Medical
+74049,female,Perawat,Clinic,Medical
+74050,male,Perawat,Clinic,Medical
+74052,female,Bidan,Clinic,Medical
+74053,female,Dokter,Clinic,Medical
+74054,female,Asisten Apoteker,Celuk,Pharmacy
+74062,male,Direktur Utama,Office,Support Centre
+74135,female,Direktur Pengembangan,Office,Support Centre
+74138,female,Finance & Accounting,Office,Support Centre
+74461,female,Apoteker,Gunung Catur,Pharmacy
+74465,female,Asisten Apoteker,Celuk,Pharmacy
+74556,female,Asisten Apoteker,Nu Orange,Pharmacy
+74639,female,Asisten Apoteker,Nu Orange,Pharmacy
+74745,other,Dokter,Clinic,Medical
+75218,male,IT Spv,Office,Support Centre
+75834,female,Dokter,Clinic,Medical
+75839,female,Dokter,Clinic,Medical
+75848,female,Dokter,Clinic,Medical
+75914,male,Dokter,Clinic,Medical
+75952,female,Purchasing,Office,Support Centre
+75955,female,Dokter,Clinic,Medical
+75963,male,Dokter,Clinic,Medical
+75983,female,Dokter,Clinic,Medical
+75986,female,Dokter,Celuk,Medical
+79738,male,Perawat,Clinic,Medical
+79765,male,Perawat,Clinic,Medical
+81587,male,Dokter,Clinic,Medical
+83884,female,Apoteker,Celuk,Pharmacy
+83885,female,Apoteker,Nu Orange,Pharmacy
+83888,female,Asisten Apoteker,Gunung Catur,Pharmacy
+83893,female,Perawat,Clinic,Medical
+83894,female,Perawat,Clinic,Medical
+83902,female,Personal Assistance,Office,Support Centre
+84488,male,Dokter,Clinic,Medical
+84490,male,Dokter,Clinic,Medical
+84509,male,NULL,Office,Support Centre
+84517,male,Dokter,Clinic,Medical
+84541,female,Dokter,Clinic,Medical
+84699,male,NULL,Office,Support Centre
+84932,male,Dokter,Clinic,Medical
+85877,male,Dokter,Clinic,Medical
+87864,female,Dokter,Gunung Catur,Medical
+88347,female,Marketing Staff,Office,Support Centre
+88348,female,Admin Bisnis,Office,Support Centre
+88357,female,Warehouse Staff,Office,PBF
+90377,female,NULL,Office,Support Centre
+90710,male,Perawat,Clinic,Medical
+90711,female,Perawat,Clinic,Medical
+90862,female,Perawat,Clinic,Medical
+91338,male,Perawat,Clinic,Medical
+92930,female,Asisten Apoteker,Nu Orange,Pharmacy
+93607,female,Dokter,Clinic,Medical
+120666,female,Apoteker,Office,Pharmacy
+120694,female,Asisten Apoteker,Office,Pharmacy
+120696,female,Asisten Apoteker,Office,Pharmacy
+121592,female,Asisten Apoteker,Office,Pharmacy
+125721,female,Dokter,Clinic,Medical
+125744,NULL,Dokter,Clinic,Medical
+125748,NULL,NULL,Clinic,Medical
+126082,NULL,NULL,Clinic,Medical
+128325,female,NULL,Office,PBF
+129675,NULL,NULL,Clinic,Medical
+130650,NULL,NULL,Office,Support Centre
+132484,male,Dokter,Clinic,Medical
+138225,female,Dokter,Clinic,Medical
+146166,female,Perawat,Clinic,Medical
+146182,female,NULL,Gunung Catur,Pharmacy
+155509,male,Warehouse Staff,Office,PBF
+157837,female,Admin Bisnis,Office,Support Centre
+157916,NULL,NULL,Clinic,Medical
+159207,NULL,NULL,Office,Support Centre
+159217,NULL,NULL,Nu Orange,Pharmacy
+160306,NULL,NULL,Nu Orange,Pharmacy
