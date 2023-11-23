@@ -16,3 +16,5 @@ most employees were late/absent (either for vacation or sick leave);
 3. Answer the following questions. Which heads of departments tend to forgive
 employees for lack of discipline? Are there any favorites for any heads of
 departments? 
+
+Project Report Presentation: https://drive.google.com/file/d/1sqjguaZS8JexL3S-gJvJ58n_oTZDCWrm/view?usp=drive_link
