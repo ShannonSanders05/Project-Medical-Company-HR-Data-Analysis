@@ -13,7 +13,7 @@ the CEO formulated:
 2. Create a visualization with the analysis of weekdays and months when
 most employees were late/absent (either for vacation or sick leave);
 
-3. Answer the following questions. Which heads of departments tend to forgive
+3. Which heads of departments tend to forgive
 employees for lack of discipline? Are there any favorites for any heads of
 departments? 
 
